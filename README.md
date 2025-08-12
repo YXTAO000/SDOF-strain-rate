@@ -1,0 +1,1 @@
+# SDOF-strain-rate
